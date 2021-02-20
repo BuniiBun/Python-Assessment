@@ -1,0 +1,2 @@
+To run this, run the "main.py" file. The point of this is to create a report card of sorts for the students.
+Running "main.py" will get all of the necessary information and organize it in a file named "StudentData.json".
